@@ -1,3 +1,3 @@
 # mbcacademy-episode-1
-12-24
+첫작품
 핀볼게임만들기
