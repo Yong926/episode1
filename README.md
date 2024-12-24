@@ -1,2 +1,3 @@
 # mbcacademy-episode-1
- 핀볼게임만들기
+12-24
+핀볼게임만들기
